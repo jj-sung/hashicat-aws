@@ -3,3 +3,4 @@ module "vpc" {
   version = "2.23.0"
   cidr = "10.0.0.0/16"
 }
+  
